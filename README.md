@@ -11,7 +11,7 @@ Project Link | Library | Project Description
 <br?
 
 
-### SQL
+### SQL & Looker Studio
 
 <br>
 <br>
@@ -23,7 +23,7 @@ Project Link | Library | Project Description
 <br>
 
 
-###Dashboards
+###Excel
 
 <br>
 <br>
