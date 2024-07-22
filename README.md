@@ -12,9 +12,9 @@ Project Link | Library | Project Description
 ---|---|---
 [Popular Songs Analysis](https://github.com/calvinwgerard/Popular-Songs-Analysis) | pandas, matplotlib, seaborn | Conducted data analysis on a Kaggle dataset of the most popular songs on Spotify in 2023 for the purpose of advising a songwriter on what attributes make a song popular.
 <br>
-<br?
+<br>
 
-# SQL & Dashboards
+### SQL & Dashboards
 
 Project Link | Tools Used | Project Description
 ---|---|---
