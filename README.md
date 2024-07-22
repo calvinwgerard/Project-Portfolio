@@ -14,7 +14,7 @@ Project Link | Library | Project Description
 <br>
 <br?
 
-## SQL & Dashboards
+# SQL & Dashboards
 
 Project Link | Tools Used | Project Description
 ---|---|---
