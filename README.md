@@ -1,6 +1,11 @@
 # Calvin's Project-Portfolio
 Hello! This repository contains some projects I have completed that show my skills and understanding of various facets of data analysis.
 
+### Excel & Tableau
+
+<br>
+<br>
+
 
 ### Python
 
@@ -21,12 +26,6 @@ Project Link | Tools Used | Project Description
 
 
 ###R
-
-<br>
-<br>
-
-
-###Excel
 
 <br>
 <br>
