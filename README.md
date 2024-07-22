@@ -6,7 +6,6 @@ Hello! This repository contains some projects I have completed that show my skil
 <br>
 <br>
 
-
 ### Python
 
 Project Link | Library | Project Description
@@ -15,14 +14,13 @@ Project Link | Library | Project Description
 <br>
 <br?
 
-### Dashboards & SQL
+### SQL & Dashboards
 
 Project Link | Tools Used | Project Description
 ---|---|---
 [Coffee Shop Analysis](https://github.com/calvinwgerard/Coffee-Shop-Analysis) | QuickDBD, SQL, Looker Studio | Answered several business questions using a coffee shop dataset from Kaggle. For links to the presentation and dashboards, click [here](https://docs.google.com/presentation/d/1reR3HmUVlRfNRcHJKarWXqfPLTm69qRAaVtklYAmRmY/edit?usp=sharing) and [here](https://lookerstudio.google.com/reporting/6133d989-7d50-4ff9-a77a-b2a967dc77e2) respectively for the interactive versions or just to see the summary.
 <br>
 <br>
-
 
 ###R
 
