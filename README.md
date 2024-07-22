@@ -15,7 +15,7 @@ Project Link | Library | Project Description
 <br>
 <br?
 
-### SQL & Looker Studio
+### Dashboards & SQL
 
 Project Link | Tools Used | Project Description
 ---|---|---
