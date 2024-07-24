@@ -4,7 +4,7 @@ Hello! This repository contains some projects I have completed that show my skil
 ### Excel & Tableau Dashboards
 Project Link | Project Description
 ---|---
-[Coffee Bean Data Dashboard](https://github.com/calvinwgerard/Coffee-Bean-Dashboard) | Created a dashboard in Excel to display coffee bean sales data filterable by order date, roast type, size, and whether or not the customer has a loyalty card. This dashboard also has data visualizations to show total sales over time, sales by country, and the top five customers out of the dataset. The Kaggle dataset that I analyzed to make this dashboard can be found [here](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)
+[Coffee Bean Data Dashboard](https://github.com/calvinwgerard/Coffee-Bean-Dashboard) | Created a dashboard in Excel to display coffee bean sales data filterable by order date, roast type, size, and whether or not the customer has a loyalty card. This dashboard also has data visualizations to show total sales over time, sales by country, and the top five customers out of the dataset. The Kaggle dataset that I analyzed to make this dashboard can be found [here](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset).
 <br>
 <br>
 
