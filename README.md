@@ -30,7 +30,9 @@ Project Link | Tools Used | Project Description
 <br>
 
 ### Tableau Dashboards
-
+Project Link | Project Description
+---|---
+[Washington House Price Dashboard](https://github.com/calvinwgerard/Washington-House-Price-Dashboard) | Using [this](https://www.kaggle.com/datasets/fratzcan/usa-house-prices/data) dataset from Kaggle I made a Tableau dashboard that displays information on house prices within a range of zipcodes in Washington over the course of a little over two months. This dashboard shows average house price over time, by city, by zipcode, as well as other metrics such as price per square foot over time and histograms that display ratings ranging from 1 to 5 of the condition of the house and the quality of the view surrounding the house, respectively. You can use [this](https://public.tableau.com/app/profile/calvin.gerard/viz/WashingtonHousePriceDashboard/WashingtonHousePriceDashboard) link to see the dashboard in browser, or follow the Project Link for the downloadable version.
 <br>
 <br>
 
