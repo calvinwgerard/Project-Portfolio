@@ -1,7 +1,7 @@
 # Calvin's Project-Portfolio
 Hello! This repository contains some projects I have completed that show my skills and understanding of various facets of data analysis.
 
-### Excel & Tableau Dashboards
+### Excel Dashboards
 Project Link | Project Description
 ---|---
 [Coffee Bean Data Dashboard](https://github.com/calvinwgerard/Coffee-Bean-Dashboard) | Created a dashboard in Excel to display coffee bean sales data filterable by order date, roast type, size, and whether or not the customer has a loyalty card. This dashboard also has data visualizations to show total sales over time, sales by country, and the top five customers out of the dataset. The Kaggle dataset that I analyzed to make this dashboard can be found [here](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset).
@@ -16,7 +16,12 @@ Project Link | Library | Project Description
 <br>
 <br>
 
-### SQL  Dashboards
+### R
+
+<br>
+<br>
+
+### SQL Dashboards
 
 Project Link | Tools Used | Project Description
 ---|---|---
@@ -24,7 +29,7 @@ Project Link | Tools Used | Project Description
 <br>
 <br>
 
-### R
+### Tableau Dashboards
 
 <br>
 <br>
