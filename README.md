@@ -20,7 +20,7 @@ Project Link | Library | Project Description
 
 Project Link | Library | Project Description
 ---|---|---
-[Bank Churn Analysis](https://github.com/calvinwgerard/Bank-Churn-Analysis/tree/main) | plyr, corrplot, caret, partykit, gridExtra, MASS | Analysed customer churn data of a bank using [this](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data) dataset and made decision trees that show what factors lead to customer churn.
+[Bank Churn Analysis](https://github.com/calvinwgerard/Bank-Churn-Analysis/tree/main) | plyr, corrplot, caret, partykit, gridExtra, MASS | Analyzed customer churn data of a bank using [this](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data) dataset and made decision trees that show what factors lead to customer churn.
 <br>
 <br>
 
@@ -41,4 +41,4 @@ Project Link | Project Description
 
 
 **Certifications:**
-- [Google Data Analysis Certificate via Coursera](https://coursera.org/share/0ff3ca55a21be7c2a8ed4279318ae093)
+- [Google Data is Certificate via Coursera](https://coursera.org/share/0ff3ca55a21be7c2a8ed4279318ae093)
